@@ -1,12 +1,28 @@
-# React + Vite
+📅 Event Planner App
+A simple React-based event planner that lets users schedule events, mark them as done, and set them to repeat daily or weekly. Includes calendar view and time picker for better planning.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Create and manage events
 
-Currently, two official plugins are available:
+Mark events as done ✅
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Edit or delete events ✏️
 
-## Expanding the ESLint configuration
+Set repeating options:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+No Repeat
+
+Repeat Daily
+
+Repeat Weekly
+
+Calendar view to browse events by date 📆
+
+Time picker for setting event time ⏰
+
+🛠 Tech Stack
+React (Vanilla React, no frameworks)
+
+JavaScript / HTML / CSS
+
+[Add other things if you used any: localStorage, date libraries, etc.]
